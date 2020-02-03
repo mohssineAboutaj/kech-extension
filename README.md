@@ -5,6 +5,7 @@ A basic project to build browser extension, built using laravel-mix as frontEnd 
 
 ## Supported browsers
 + Google Chrome
++ Chromium Web Browser
 
 ## Usage
 
