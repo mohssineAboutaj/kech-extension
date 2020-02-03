@@ -13,7 +13,7 @@
 		"build": "npm run production",
 		"prod": "npm run production",
 		"production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-		"zip": "node node_modules/bestzip/bin/cli.js iam-active-ext.zip dist popup.html manifest.json"
+		"zip": "node node_modules/bestzip/bin/cli.js kech-ext.zip dist popup.html manifest.json"
 	},
 	"devDependencies": {
 		"copy-webpack-plugin": "^5.1.1",

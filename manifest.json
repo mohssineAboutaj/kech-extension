@@ -20,7 +20,7 @@
       "128": "./dist/imgs/icon_128.png"
     },
     "default_popup": "popup.html",
-    "default_title": "iamActive extension"
+    "default_title": "kech extension"
   },
   "permissions": [
     "activeTab"
