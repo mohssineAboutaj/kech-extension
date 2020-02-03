@@ -1,0 +1,10 @@
+node_modules/
+*.zip 
+
+*lock.*
+*.lock
+
+*log.*
+*.log
+
+mix-manifest.json

@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "kech extension",
+  "description": "kech extension description",
+  "version": "1.0.0",
+  "icons": {
+    "16": "./dist/imgs/icon_16.png",
+    "32": "./dist/imgs/icon_32.png",
+    "48": "./dist/imgs/icon_48.png",
+    "64": "./dist/imgs/icon_64.png",
+    "92": "./dist/imgs/icon_92.png",
+    "128": "./dist/imgs/icon_128.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "./dist/imgs/icon_16.png",
+      "32": "./dist/imgs/icon_32.png",
+      "64": "./dist/imgs/icon_64.png",
+      "92": "./dist/imgs/icon_92.png",
+      "128": "./dist/imgs/icon_128.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "iamActive extension"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
